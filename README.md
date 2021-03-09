@@ -2,7 +2,7 @@
 
 <img src="New Project (6)-5275858.png" alt="New Project (6)" style="zoom:67%;" />
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Tech-Recruiter-Justin?label=Follow&style=social"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tech-Recruiter-Justin/Finance?style=social"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tech-Recruiter-Justin/Finance"> <img alt="Connect LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?link=https://www.linkedin.com/in/justinchchoi/">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Tech-Recruiter-Justin?label=Follow&style=social"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tech-Recruiter-Justin/Finance?style=social"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tech-Recruiter-Justin/Finance">
 
 
 
