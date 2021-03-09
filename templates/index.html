@@ -19,7 +19,7 @@
             {% for row in rows %}
             <tr>
                 <td>{{ row.symbol }}</td>
-                <td>{{ row.stock_name }}</td>
+                <td>{{ row.company }}</td>
                 <td>{{ row.sum_shares }}</td>
                 <td>{{ (row.symbol | lookup).price | usd }}</td>
                 <td>{{ ((row.symbol | lookup).price * row.sum_shares) | usd }}</td>
